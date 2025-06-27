@@ -1,0 +1,4 @@
+zig-out/
+data/
+go/
+.zig-cache/
